@@ -72,14 +72,14 @@ translation:
     sambaiman: 삼배만
     yakuman: 역만
     double-yakuman: 더블 역만
-    triple-yakuman: 세배 역만
-    quadruple-yakuman: 네배 역만
-    quintuple-yakuman: 네배 역만
-    sextuple-yakuman: 여섯배 역만
-    septuple-yakuman: 여섯배 역만
-    octuple-yakuman: 열배 역만
-    nonuple-yakuman: 열한배 역만
-    decuple-yakuman: 열두배 역만
+    triple-yakuman: 트리플 역만
+    quadruple-yakuman: 사배 역만
+    quintuple-yakuman: 오배 역만
+    sextuple-yakuman: 육배 역만
+    septuple-yakuman: 칠배 역만
+    octuple-yakuman: 팔배 역만
+    nonuple-yakuman: 구배 역만
+    decuple-yakuman: 십배 역만
     more-yakuman: 추가 역만
     ron-detail: "{{a}} - {{b}}"
     tsumo-east-detail: "{{count}} All"
@@ -175,7 +175,7 @@ translation:
     red-dora: 적도라
     kokushi: 국사무쌍
     kokushi-13: 국사무쌍 13면 대기
-    suanko: 스인커
+    suanko: 스안커
     suanko-tanki: 스안커 단기
     daisangen: 대삼원
     tsuiso: 자일색
@@ -188,7 +188,7 @@ translation:
     pure-churen: 순정구련보등 
     tenho: 천화
     chiho: 지화
-    bazoro: 바조로
+    bazoro: 바조로(량조로)
   scoring-table:
     dealer: 친
     non-dealer: 자
@@ -245,8 +245,8 @@ translation:
     tile-color: 패 색상
     auto-inverted: 자동 (반전)
     score: 점수
-    show-bazoro: 바조로 표시
-    about: About
+    show-bazoro: 바조로(량조로) 표시
+    about: 정보
   footer:
     license: 이 앱은 <1>The MIT License</1>에 따라 라이센스가 부여되며, 우리는 이 앱에 대해 어떠한 책임도 지지 않습니다.
     credit: 마작 타일 이미지는 <1>FluffyStuff/riichi-mahjong-tiles</1>에서 가져온 것입니다. (<2>CC BY</2>).
