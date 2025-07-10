@@ -103,7 +103,7 @@ translation:
     point: "{{count}} 점"
     dealer-diff: "친과의 점수 차: {{count}}"
     non-dealer-diff: "자와의 점수 차: {{count}}"
-    shanten: "{{count}} 텐파이"
+    shanten: "{{count}} 샹텐"
     type: "{{count}} 종"
     tile: "{{count}} 패"
     tempai: 텐파이
